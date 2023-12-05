@@ -1,1 +1,2 @@
-# hugging_face_abstract_summarizer_app
+This app is developed to summarize the abstract of a pdf.
+Application is deployed on hugging face space.
